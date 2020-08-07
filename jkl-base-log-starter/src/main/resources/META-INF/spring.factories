@@ -1,0 +1,4 @@
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=\
+    com.jkinvest.jkl.base.log.LogAutoConfiguration
+org.springframework.context.ApplicationContextInitializer=\
+    com.jkinvest.jkl.base.log.MyMDCAdapterInitializer

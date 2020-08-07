@@ -1,0 +1,5 @@
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=\
+    com.jkinvest.jkl.base.cloud.OpenFeignAutoConfiguration , \
+    com.jkinvest.jkl.base.cloud.RibbonMetaFilterAutoConfiguration, \
+    com.jkinvest.jkl.base.cloud.RestTemplateConfiguration
+
